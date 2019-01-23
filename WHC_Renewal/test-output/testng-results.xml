@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="72117" started-at="2019-01-21T09:29:58Z" finished-at="2019-01-21T09:31:10Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="72117" started-at="2019-01-21T09:29:58Z" finished-at="2019-01-21T09:31:10Z">
+      <class name="com.tests.UpgradeCustomerTest">
+        <test-method status="PASS" signature="setUpDriver()[pri:0, instance:com.tests.UpgradeCustomerTest@ae45eb6]" name="setUpDriver" is-config="true" duration-ms="18280" started-at="2019-01-21T09:29:58Z" finished-at="2019-01-21T09:30:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpDriver -->
+        <test-method status="PASS" signature="UpdateCust()[pri:0, instance:com.tests.UpgradeCustomerTest@ae45eb6]" name="UpdateCust" duration-ms="53789" started-at="2019-01-21T09:30:16Z" finished-at="2019-01-21T09:31:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- UpdateCust -->
+      </class> <!-- com.tests.UpgradeCustomerTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
